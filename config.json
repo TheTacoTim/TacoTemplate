@@ -1,0 +1,7 @@
+{
+	//I use / as my prefix. You can change this to be anything you want.//
+	"prefix": "/",
+	
+	"token": "ENTER YOUR BOTS TOKEN HERE"
+	//Leave the " " marks when entering your bot's token.
+}
